@@ -12,7 +12,8 @@ def greet():
         if i == "s":
             total += 1
     if total == 3:
-        return "hello world!" # print("hello world") 
-
+        # print("hello world") 
+        return "hello world!" 
+    
 greet()
 
