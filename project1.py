@@ -1,5 +1,15 @@
 
 
+#UPDATE: 
+# I learned var.count / comps
+# def greet():
+#     var = "This is a sentence"
+#     total = var.count("s")
+#     if total == 3:
+#         return "hello world!" 
+
+# greet()
+
 
 # Prompt:
 # Create a function that returns 'hello world! 
