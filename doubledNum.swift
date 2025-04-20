@@ -4,7 +4,5 @@
 
 
 func doubleInteger(_ num: Int) -> Int {
-  let doubledNum = num * 2
-  return doubledNum
+  num * 2
 }
-print("Your'e number is doubled is \(doubleInteger(8))")
