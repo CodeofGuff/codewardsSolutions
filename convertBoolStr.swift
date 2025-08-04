@@ -5,7 +5,7 @@ func boolTooWord(_ bool: Bool) -> String {
   bool ? "Yes" : "No"
 }
 
-// or
+// or...
 
 func boolToWord(_ bool: Bool) -> String {
   if bool == true {
